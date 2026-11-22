@@ -1,6 +1,6 @@
 # US CA QUECHAN TRIBE OF THE FORT YUMA INDIAN RE - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
